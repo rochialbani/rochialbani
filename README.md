@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Rocío 
 #### I'm a Full Stack Developer focused on Front-end
-![I'm a Full Stack Developer focused on Front-end](https://asset.cloudinary.com/daifbanga/043f94db8c72d6b20077c5f1b7c23040)
+![](https://asset.cloudinary.com/daifbanga/043f94db8c72d6b20077c5f1b7c23040)
 
 I have a great capacity to adapt to different work environments and enjoy teamwork. I'm very organized, creative and I like to learn as much as I can.
 
