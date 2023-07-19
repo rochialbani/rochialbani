@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Rocío 
 #### I'm a Full Stack Developer focused on Front-end
-![](https://github.com/rochialbani/rochialbani/blob/main/giphywomancode.gif)
+![](https://github.com/rochialbani/rochialbani/blob/main/Img/giphywomancode.gif)
 
 I have a great capacity to adapt to different work environments and enjoy teamwork. I'm very organized, creative and I like to learn as much as I can.
 
