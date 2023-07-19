@@ -7,7 +7,7 @@ I have a great capacity to adapt to different work environments and enjoy teamwo
 Skills: React | Redux | Redux Toolkit | JavaScript | TypeScript | HTML5 | CSS
 
 - 📫 How to reach me:
--  https://www.linkedin.com/in/roc%C3%ADo-albani/
+-  https://www.linkedin.com/in/rocio-albani/
 - E-mail: rocio.albani@hotmail.com 
 
 
